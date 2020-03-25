@@ -30,7 +30,7 @@ export class Login extends Component{
               <div className="border">
             <img className = "image" src={loginImg} />
              <form onSubmit={this.handleSubmit}>
-            <div><h1>Example for login page</h1></div>
+            <div><h1>Example Login Screen </h1></div>
             <div><h4>Getting started with Green.</h4></div>
               <div className="row">
                 <label htmlFor="email">Email Address: </label>
